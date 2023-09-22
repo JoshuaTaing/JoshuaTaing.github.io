@@ -1,4 +1,4 @@
-# UBON-235.github.io
-public repo for my portfolio website.
+# Portfolio Website
+a public repo. for my personal website
 
-(currently a wip)
+(currently a w.i.p.)
