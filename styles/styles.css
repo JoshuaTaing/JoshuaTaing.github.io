@@ -1,0 +1,10 @@
+/* full page styles */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: bisque;
+    font-family:'Segoe UI';
+    color: #353839;
+}
